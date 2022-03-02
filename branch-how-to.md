@@ -1,3 +1,3 @@
-в репозитории друга создать ветку со своей фамилией: git branch surname, 
-переключиться в новую ветку: git checkout surname, 
-добавить в репозиторий файл branch-how-to.md.
+To creatte the branch with your surname: git branch surname, 
+check to new branch: git checkout surname, 
+add file to repository  branch-how-to.md.
